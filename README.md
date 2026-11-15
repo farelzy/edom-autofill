@@ -2,7 +2,7 @@
 
 Script JavaScript kecil untuk mengisi otomatis formulir **evaluasi dosen (EDOM)** di portal akademik kampus, langsung dari Console browser. Tanpa instalasi, tanpa ekstensi.
 
-✅ **Sudah dicoba di [iGracias Telkom University](https://igracias.telkomuniversity.ac.id).** Portal kampus lain mungkin perlu penyesuaian selektor (lihat [Struktur halaman yang diharapkan](#struktur-halaman-yang-diharapkan)).
+✅ **Sudah dicoba di iGracias Telkom University Purwokerto.** Portal kampus lain mungkin perlu penyesuaian selektor (lihat [Struktur halaman yang diharapkan](#struktur-halaman-yang-diharapkan)).
 
 Script ini akan:
 
