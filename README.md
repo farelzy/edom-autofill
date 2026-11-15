@@ -2,6 +2,8 @@
 
 Script JavaScript kecil untuk mengisi otomatis formulir **evaluasi dosen (EDOM)** di portal akademik kampus, langsung dari Console browser. Tanpa instalasi, tanpa ekstensi.
 
+✅ **Sudah dicoba di [iGracias Telkom University](https://igracias.telkomuniversity.ac.id).** Portal kampus lain mungkin perlu penyesuaian selektor (lihat [Struktur halaman yang diharapkan](#struktur-halaman-yang-diharapkan)).
+
 Script ini akan:
 
 1. Memilih jawaban **"Puas"** di setiap pertanyaan pilihan ganda.
@@ -11,7 +13,7 @@ Script ini akan:
 
 ## Cara pakai
 
-1. Login ke portal akademik, lalu buka halaman evaluasi untuk satu dosen/mata kuliah.
+1. Login ke iGracias (atau portal akademik kampusmu), lalu buka halaman kuesioner evaluasi untuk satu dosen/mata kuliah.
 2. Buka **Developer Tools**: tekan `F12` (atau `Ctrl+Shift+J` di Chrome/Edge, `Ctrl+Shift+K` di Firefox), lalu pilih tab **Console**.
 3. Salin seluruh isi [`edom-autofill.js`](edom-autofill.js), tempel ke Console, lalu tekan `Enter`.
 4. Lihat log di Console. Kalau semuanya beres, formulir langsung tersimpan.
